@@ -38,3 +38,13 @@ footer {
     width: 100%;
 }
 /* Los aprendices deberán agregar estilos para su sección de contacto aquí */
+#contacto {
+  background-color: #f0f8ff;
+  color: #333333;            
+  text-align: center;        
+  padding: 40px 20px;        
+}
+
+#contacto h2 {
+  color: #0078d7;    
+}     
